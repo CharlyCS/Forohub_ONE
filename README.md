@@ -1,4 +1,5 @@
-# Forohubfor ONE (Oracle Next Education) Program  
+# Forohub for ONE (Oracle Next Education) Program  
+![Insignia Alura](./assets/Badge-Spring.png)
 
 ## Descripción
 ForoHub es una aplicación de foros diseñada como parte del Challenge Oracle ONE (Oracle Next Education). Este proyecto tiene como objetivo aplicar conceptos clave de desarrollo de software, incluyendo el uso de Java, Spring Boot y persistencia de datos con JPA y Hibernate.
@@ -31,9 +32,7 @@ Este proyecto fue desarrollado como parte del programa Oracle ONE y me permitió
 - Aplicación de buenas prácticas en Java y Spring Boot.
 
 ## Autor
-**[Tu Nombre]**
-- [LinkedIn](https://www.linkedin.com/in/carlos-coronel-silvestre-7645921b9/)
-- [GitHub](https://github.com/CharlyCS)
+Carlo Coronel Silvestre - [LinkedIn](https://www.linkedin.com/in/carlos-coronel-silvestre-7645921b9/) - [GitHub](https://github.com/CharlyCS)
 
 
 
